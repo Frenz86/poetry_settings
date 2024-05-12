@@ -5,6 +5,7 @@ py -m pip install --user pipx
 
 ## 2 add pipx to path:
 cd C:\Users\Frenz\AppData\Roaming\Python\Python311\Scripts
+
 .\pipx.exe ensurepath
 
 ## 3 install poetry with pipx:
